@@ -26,52 +26,8 @@ BATCH_ID = f"ODI_Deposit_{TIMESTAMP}"
 # Replace this list of dicts with actual URLs and DOIs
 records_to_process = [
     {
-        "url": "https://theodi.org/insights/reports/how-an-ai-ready-national-data-library-would-help-uk-science/",
-        "doi": "10.61557/ODZD4015"
-    },
-    {
-        "url": "https://theodi.org/insights/reports/trust-and-transparency-in-privacy-enhancing-technologies/",
-        "doi": "10.61557/ASKZ9013"
-    },
-    {
-        "url": "https://theodi.org/insights/reports/mapping-the-role-of-data-work-in-ai-supply-chains/",
-        "doi": "10.61557/ZRSB9894"
-    },
-    {
-        "url": "https://theodi.org/insights/reports/a-framework-for-ai-ready-data/",
-        "doi": "10.61557/ODEX6433"
-    },
-    {
-        "url": "https://theodi.org/insights/reports/data-infrastructure-for-a-healthy-nation/",
-        "doi": "10.61557/JULR4284"
-    },
-    {
-        "url": "https://theodi.org/insights/reports/an-odi-european-data-and-ai-policy-manifesto/",
-        "doi": "10.61557/LPXQ8240"
-    },
-    {
-        "url": "https://theodi.org/insights/reports/towards-the-ethical-use-of-synthetic-data-in-health-research/",
-        "doi": "10.61557/MAHO3973"
-    },
-    {
-        "url": "https://theodi.org/insights/reports/shared-data-licensing-across-the-uks-energy-networks/",
-        "doi": "10.61557/XVYL3760"
-    },
-    {
-        "url": "https://theodi.org/insights/reports/insights-from-uk-councils-on-standards-readiness-and-reform-to-modernise-public-data-for-ai/",
-        "doi": "10.61557/LURR7702"
-    },
-    {
-        "url": "https://theodi.org/insights/projects/odi-and-cocoda-technolegal-solutions-for-online-platform-accountability/",
-        "doi": "10.61557/QYTA5086"
-    },
-    {
-        "url": "https://theodi.org/insights/reports/an-open-data-strategy-for-the-water-industry/",
-        "doi": "10.61557/IGPR2799"
-    },
-    {
-        "url": "https://theodi.org/insights/projects/open-data-use-case-observatory/",
-        "doi": "10.61557/AWBG3088"
+        "url": "https://theodi.org/insights/reports/how-an-ai-ready-national-data-library-would-help-uk-science/", # EXAMPLE -- DO NOT USE
+        "doi": "10.61557/ODZD4015" # EXAMPLE -- DO NOT USE
     },
     # {
     #     "url": "",
