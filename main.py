@@ -26,9 +26,21 @@ BATCH_ID = f"ODI_Deposit_{TIMESTAMP}"
 # Replace this list of dicts with actual URLs and DOIs
 records_to_process = [
     {
-        "url": "https://theodi.org/insights/reports/how-an-ai-ready-national-data-library-would-help-uk-science/", # EXAMPLE -- DO NOT USE
-        "doi": "10.61557/ODZD4015" # EXAMPLE -- DO NOT USE
+        "url": "https://theodi.org/insights/reports/citizenquery-uk-benchmarking-llm-performance-in-citizen-queries-about-public-information-on-govuk/", # EXAMPLE -- DO NOT USE
+        "doi": "10.61557/HDRO1281" # EXAMPLE -- DO NOT USE
     },
+    {
+        "url": "https://theodi.org/insights/reports/state-of-the-data-nation/", # EXAMPLE -- DO NOT USE
+        "doi": "10.61557/TEAH7460" # EXAMPLE -- DO NOT USE
+    },
+    {
+        "url": "https://theodi.org/insights/reports/prototyping-an-ai-ready-national-data-library/", # EXAMPLE -- DO NOT USE
+        "doi": "10.61557/YYPK1793" # EXAMPLE -- DO NOT USE
+    },
+    {
+        "url": "https://theodi.org/insights/reports/missing-infrastructure-semantic-data-for-effective-scrutiny-of-online-platforms/", # EXAMPLE -- DO NOT USE
+        "doi": "10.61557/VUBS9181" # EXAMPLE -- DO NOT USE
+    }
     # {
     #     "url": "",
     #     "doi": ""
