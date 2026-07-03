@@ -1,7 +1,5 @@
 currently unused doi prefix/suffix compounds. the 10.61557 prefix is the ODI prefix. please delete a row as soon as it is used.
 
-10.61557/LSGE6110
-10.61557/RCVZ5097
 10.61557/CLPU3438
 10.61557/XPYT4316
 10.61557/XEZA1612
